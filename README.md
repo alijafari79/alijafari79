@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I’m currently working on Data Science and Machine Learning with Python !
-- 🌱 I’m currently Studying Electrical Engineering at Sharif University of Technology !
+- 📚 I’m currently Studying Electrical Engineering at Sharif University of Technology !
 - 👯 I’m looking to collaborate on Machine learning Projects.
 - 💬 Let me know about your attitude toward studying Machine Learning and Projects on Data Science! 
 - 📫 How to reach me: 
