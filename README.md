@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate on Machine learning Projects.
 - 💬 Let me know about your attitude toward studying Machine Learning and Projects on Data Science! 
 - 📫 How to reach me: 
-          Email : alijafari.official@yahoo.com
-          Telelgram : https://t.me/AJEEAJ
+-          Email : alijafari.official@yahoo.com
+-          Telelgram : https://t.me/AJEEAJ
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
