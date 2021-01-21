@@ -11,6 +11,11 @@
 - 📚 I’m currently Studying Electrical Engineering at Sharif University of Technology !
 - 👯 I’m looking to collaborate on Machine learning Projects.
 - 💬 Let me know about your attitude toward studying Machine Learning and Projects on Data Science! 
+- ⚡ My Hobby is programming deeply in python and learn all about python language .
+     Also love learning to perform some AI stuff using python and maybe integrating with other languages 
+     to impower my python skill .
+     
+     
 - 📫 How to reach me: 
 -  Email : alijafari.official@yahoo.com
 -  Telelgram : https://t.me/AJEEAJ
