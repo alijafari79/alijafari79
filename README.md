@@ -20,7 +20,7 @@
      
 - 📫 How to reach me: 
 -  Email : alijafari.official@yahoo.com
--  Telelgram : https://t.me/AJEEAJ
+-  Telegram : https://t.me/AJEEAJ
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
