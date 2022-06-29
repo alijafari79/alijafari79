@@ -19,14 +19,7 @@
 ### :fire: My Stats :
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=dark&background=000000)](#)
-
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=dark&background=000000" />
-</a>
-
-<a href="#">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&background=000000" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
