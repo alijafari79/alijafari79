@@ -7,12 +7,12 @@
 -->
 
 - 📚 **Currently Studying Electrical Engineering at Sharif University of Technology !**
-- 👯 Looking forward to collaborate on Computer Vision, AI & Machine learning Projects.
-- ⚡ My Hobby is programming deeply in python and learn all about python language .
-     Also love learning to perform some AI stuff using python and maybe integrating with other languages 
-     to empower my skill.
+- 👯 **Looking forward to collaborate on Computer Vision, AI & Machine learning Projects.**
+- ⚡ **My Hobby is programming deeply in python and learn all about python language .**
+    **Also love learning to perform some AI stuff using python and maybe integrating with other languages 
+     to empower my skill.**
      
-     Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.
+     **Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.**
 ---
 
 ### :fire: My Stats :
