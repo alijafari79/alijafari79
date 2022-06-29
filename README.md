@@ -25,7 +25,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>Python
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/cplusplus-original-wordmark.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <div>
 
 - 📫 How to reach me: 
