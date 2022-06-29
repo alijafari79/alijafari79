@@ -17,7 +17,8 @@
      
      Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.
      
-     
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true)](#)
+
 - 📫 How to reach me: 
 -  Email : alijafari.official@yahoo.com
 -  Telegram : https://t.me/AJEEAJ
