@@ -49,7 +49,7 @@
      
  ---
 
-- 📫 **How to reach me:**
+📫 **How to reach me:**
 -  **Email : alijafari.official@yahoo.com**
 <!--          
 - 😄 Pronouns: ...
