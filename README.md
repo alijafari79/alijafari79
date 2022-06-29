@@ -25,7 +25,7 @@
 </a>
 
 <a href="#">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&background=000000" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&background=000000" />
 </a>
 
 ---
