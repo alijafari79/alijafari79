@@ -1,4 +1,4 @@
-## Hi I'm Ali Jafari 👋
+## About Me:
 
 ### Welcome to My GitHub
 ### You can also Visit my Page with link below to see my latest projects .
