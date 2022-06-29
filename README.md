@@ -1,6 +1,6 @@
+---
 ![Title Image](https://github.com/alijafari79/alijafari79/blob/master/IMG.png)
 
-## 💢 About Me: 💭	
 ---
 <!--### You can also Visit my Page with link below to see my latest projects .--!>
 <!--#### Github Page : https://alijafari79.github.io/website-->
