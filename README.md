@@ -7,8 +7,8 @@
 **alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📚 I’m currently Studying Electrical Engineering at Sharif University of Technology !
-- 👯 I’m looking to collaborate on AI & Machine learning Projects.
+- 📚 Currently Studying Electrical Engineering at Sharif University of Technology !
+- 👯 Looking forward to collaborate on Computer Vision, AI & Machine learning Projects.
 - ⚡ My Hobby is programming deeply in python and learn all about python language .
      Also love learning to perform some AI stuff using python and maybe integrating with other languages 
      to empower my skill.
@@ -28,10 +28,14 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+
+     
+     https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg
      
      
 <div>
