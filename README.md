@@ -49,8 +49,8 @@
      
  ---
 
-- 📫 How to reach me: 
--  Email : alijafari.official@yahoo.com
+- 📫**How to reach me: **
+-  **Email : alijafari.official@yahoo.com**
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
