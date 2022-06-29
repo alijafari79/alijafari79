@@ -24,7 +24,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=dark&background=000000" />
 </a>
 <a href="#">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&background=000000" />
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&background=000000" />
 </a>
 
 ---
