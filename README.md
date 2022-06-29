@@ -20,7 +20,7 @@
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=dark&background=000000)](#)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=dark&border=FFFFFF&background=000000&ring=DD2727)](#)
 
 ---
 
