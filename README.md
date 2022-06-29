@@ -1,4 +1,4 @@
-[Title Image](https://github.com/alijafari79/alijafari79/blob/master/IMG.png)
+![Title Image](https://github.com/alijafari79/alijafari79/blob/master/IMG.png)
 
 ## 💢 About Me: 💭	
 ---
