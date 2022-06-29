@@ -52,7 +52,6 @@
 
 - 📫 How to reach me: 
 -  Email : alijafari.official@yahoo.com
--  Telegram : https://t.me/AJEEAJ
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
