@@ -1,7 +1,7 @@
 ## About Me:
 
 ### Welcome to My GitHub
-### You can also Visit my Page with link below to see my latest projects .
+<!--### You can also Visit my Page with link below to see my latest projects .--!>
 <!--#### Github Page : https://alijafari79.github.io/website-->
 <!--
 **alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
