@@ -16,11 +16,16 @@
      to empower my python skill.
      
      Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.
+---
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true)](#)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>Python
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <div>
 
 - 📫 How to reach me: 
