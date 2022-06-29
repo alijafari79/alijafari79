@@ -19,6 +19,8 @@
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true)](#)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijafari79)](https://github.com/alijaari79/github-readme-stats)
+
 - 📫 How to reach me: 
 -  Email : alijafari.official@yahoo.com
 -  Telegram : https://t.me/AJEEAJ
