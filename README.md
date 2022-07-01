@@ -21,6 +21,8 @@
  - :fire: **Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.**
 ---
 
+![Views](https://komarev.com/ghpvc/?username=alijafari79)
+
 ### :fire: My Stats :
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=radical&background=000000&border=FFFFFF)](#)
@@ -61,8 +63,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Views](https://komarev.com/ghpvc/?username=alijafari79)
-
-
-
