@@ -1,4 +1,3 @@
-![Views](https://komarev.com/ghpvc/?username=alijafari79)
 
 ---
 ![Title Image](https://github.com/alijafari79/alijafari79/blob/master/Title.png)
@@ -62,5 +61,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Views](https://komarev.com/ghpvc/?username=alijafari79)
+
 
 
