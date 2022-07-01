@@ -66,5 +66,5 @@
    
    <!-- footer -->
 <div style="align-items:center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="max-width:100%;width:100%;"/>
 </div>
