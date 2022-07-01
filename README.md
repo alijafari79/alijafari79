@@ -1,5 +1,5 @@
 <div style="align-items:center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&height=120" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" style="max-width:100%;"/>
 </div>
 
 ---
