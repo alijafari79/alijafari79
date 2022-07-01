@@ -1,13 +1,11 @@
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="max-width:100%;width:100%;"/>
-</div>
-
 ---
 
 ![Title Image](https://github.com/alijafari79/alijafari79/blob/master/Title.png)
 
 ---
-
+</div>
 ### 💢 About Me :
 
 <!--### You can also Visit my Page with link below to see my latest projects .--!>
