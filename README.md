@@ -1,7 +1,9 @@
 <div style="align-items:center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&height=120" style="max-width: 100%;"/>
 </div>
+
 ---
+
 ![Title Image](https://github.com/alijafari79/alijafari79/blob/master/Title.png)
 
 ---
@@ -68,5 +70,5 @@
    
    <!-- footer -->
 <div style="align-items:center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&height=120" style="max-width: 100%;"/>
 </div>
