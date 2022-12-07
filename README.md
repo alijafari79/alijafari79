@@ -50,7 +50,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40" href="#"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
      <img style="pointer-events:none;user-select:none;" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/206190296-3ed6718e-23f1-4050-bff9-65dc0fc8bc43.png" title="" alt="" width="40" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206190472-479c90f1-ba05-4654-a7f3-a8bbe7f428a3.png" title="" alt="" width="40" height="40"/>&nbsp;
   <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
   <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
      <img src="https://user-images.githubusercontent.com/50498845/206189452-05aa3f8a-ce50-4f50-8c97-4b2970821732.png" title="GCC" alt="" width="40" height="40"/>&nbsp      
