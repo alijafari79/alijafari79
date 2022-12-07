@@ -43,7 +43,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/206193003-9aaef06a-4581-4358-a999-264f2c67403c.png" title="YOlO" alt="YOLO" width="70" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206195135-6aba407e-865a-4f5f-a007-74745c88f530.png" title="YOlO" alt="YOLO" width="70" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@
 </div>
      
  ---
- 
+
 
 📫 **How to reach me:**
 -  **Email : alijafari.official@yahoo.com**
