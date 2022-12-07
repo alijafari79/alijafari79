@@ -43,6 +43,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206193003-9aaef06a-4581-4358-a999-264f2c67403c.png" title="YOlO" alt="YOLO" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -51,12 +52,15 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/50498845/206190472-479c90f1-ba05-4654-a7f3-a8bbe7f428a3.png" title="" alt="" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/50498845/206189452-05aa3f8a-ce50-4f50-8c97-4b2970821732.png" title="GCC" alt="" width="40" height="40"/>&nbsp      <img src="https://user-images.githubusercontent.com/50498845/206190640-cfc23305-c98b-48aa-af54-d5db2182961e.png" title="vscode" alt="" width="40" height="40"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
     <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
 </div>
      
  ---
+ 
+ ![yolo](https://user-images.githubusercontent.com/50498845/206193003-9aaef06a-4581-4358-a999-264f2c67403c.png)
+
 
 📫 **How to reach me:**
 -  **Email : alijafari.official@yahoo.com**
