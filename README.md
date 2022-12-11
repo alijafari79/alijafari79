@@ -12,7 +12,7 @@
 <!--#### Github Page : https://alijafari79.github.io/website-->
 <!--**alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 📚 **Electrical Engineering Student at Sharif University of Technology !**
+- 📚 **Electrical Engineering Student @ Sharif University of Technology (SUT)**
 - 👯 **Looking forward to collaborate on Computer Vision, AI & Machine learning Projects.**
 - :computer: **Junior Embedded System Engineer**
 - ⚡ **My Hobby is programming deeply in python and learn all about python language .**
