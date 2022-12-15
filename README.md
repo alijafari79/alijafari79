@@ -29,6 +29,7 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727)](#)
 
+<!--
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,9 +58,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
     <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
 </div>
-     
- ---
- 
+-->
 
 
 📫 **How to reach me:**
