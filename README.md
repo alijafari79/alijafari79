@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 <p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=radical&background=000000&border=FFFFFF">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF">
 <img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727">
 </p>
 
