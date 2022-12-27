@@ -25,9 +25,10 @@
 ![Views](https://komarev.com/ghpvc/?username=alijafari79)
 
 ### :fire: My Stats :
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=radical&background=000000&border=FFFFFF)](#)
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727)](#)
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&count_private=true&theme=radical&background=000000&border=FFFFFF">
+<img width="50%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727">
+</p>
 
 <!--
 ---
