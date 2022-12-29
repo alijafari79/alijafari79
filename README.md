@@ -17,7 +17,7 @@
 - :computer: **Junior Embedded System Engineer**
 - ⚡ **My Hobby is programming deeply in python and learn all about python language .**
     **Also love learning to perform some AI stuff using python and maybe integrating with other languages 
-     to empower my skill.**
+     to empower my skill !**
      
  - :fire: **Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.**
 ---
