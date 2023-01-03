@@ -6,23 +6,23 @@
 
 ---
  
-### 💢 About Me :
+### 💢 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 :
 
 <!--### You can also Visit my Page with link below to see my latest projects .--!>
 <!--#### Github Page : https://alijafari79.github.io/website-->
 <!--**alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 📚 **Electrical Engineering Student @ Sharif University of Technology (SUT)**
-- 👯 **Looking forward to collaborate on Computer Vision, AI & Machine learning Projects.**
-- :computer: **Junior Embedded System Engineer**
-- ⚡ **My Hobby is programming deeply in python, C & C++ and learn all about them in advanced levels .**
+- 📚 **𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 @ 𝑆ℎ𝑎𝑟𝑖𝑓 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦 𝑜𝑓 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑦 (𝑆𝑈𝑇)**
+- 👯 **𝐿𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑉𝑖𝑠𝑖𝑜𝑛,𝐴𝐼 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑃𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
+- :computer: **𝐽𝑢𝑛𝑖𝑜𝑟 𝐸𝑚𝑏𝑒𝑑𝑑𝑒𝑑 𝑆𝑦𝑠𝑡𝑒𝑚 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟**
+- ⚡ **𝑀𝑦 𝐻𝑜𝑏𝑏𝑦 𝑖𝑠 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑑𝑒𝑒𝑝𝑙𝑦 𝑖𝑛 𝑝𝑦𝑡ℎ𝑜𝑛,𝐶 & 𝐶++ 𝑎𝑛𝑑 𝑙𝑒𝑎𝑟𝑛 𝑎𝑙𝑙 𝑎𝑏𝑜𝑢𝑡 𝑡ℎ𝑒𝑚 𝑖𝑛 𝑎𝑑𝑣𝑎𝑛𝑐𝑒𝑑 𝑙𝑒𝑣𝑒𝑙𝑠.**
      
- - :fire: **Using MicroControllers like AVR and Specially all kinds of Arduino boards and Electronic components to design circuits.**
+ - :fire: **𝑈𝑠𝑖𝑛𝑔 𝑀𝑖𝑐𝑟𝑜𝐶𝑜𝑛𝑡𝑟𝑜𝑙𝑙𝑒𝑟𝑠 𝑙𝑖𝑘𝑒 𝐴𝑉𝑅 𝑎𝑛𝑑 𝑆𝑝𝑒𝑐𝑖𝑎𝑙𝑙𝑦 𝑎𝑙𝑙 𝑘𝑖𝑛𝑑𝑠 𝑜𝑓 𝐴𝑟𝑑𝑢𝑖𝑛𝑜 𝑏𝑜𝑎𝑟𝑑𝑠 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝑐𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑠 𝑡𝑜 𝑑𝑒𝑠𝑖𝑔𝑛 𝑐𝑖𝑟𝑐𝑢𝑖𝑡𝑠.**
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=alijafari79)
 
-### :fire: My Stats :
+### :fire: 𝑀𝑦 𝑆𝑡𝑎𝑡𝑠 :
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF&ring=DD2727">
 <img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727">
@@ -61,8 +61,8 @@
 <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
 
 
-📫 **How to reach me:**
--  **Email : alijafari.official@yahoo.com**
+📫 **𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:**
+-  **𝐸𝑚𝑎𝑖𝑙∶ 𝑎𝑙𝑖𝑗𝑎𝑓𝑎𝑟𝑖.𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙@𝑦𝑎ℎ𝑜𝑜.𝑐𝑜𝑚**
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
