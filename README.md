@@ -28,7 +28,7 @@
 <img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&theme=radical&border=FFFFFF&background=000000&ring=DD2727">
 </p>
 
-<!--
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -56,7 +56,6 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
--->
 
 <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
 
