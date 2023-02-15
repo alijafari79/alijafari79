@@ -44,7 +44,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/50498845/206195868-53a693da-630b-4be4-8d79-137208a65a47.png" title="YOlO" alt="YOLO" width="50" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/218998346-5f421216-55e8-4886-a852-ef5cd6f74b58.png" title="Proteus" alt="Proteus" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/218998346-5f421216-55e8-4886-a852-ef5cd6f74b58.png" title="Proteus" alt="Proteus" height="34"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
