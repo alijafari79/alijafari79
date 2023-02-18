@@ -62,6 +62,9 @@
 
 📫 **𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:**
 -  **𝐸𝑚𝑎𝑖𝑙∶ [𝑎𝑙𝑖𝑗𝑎𝑓𝑎𝑟𝑖.𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙@𝑦𝑎ℎ𝑜𝑜.𝑐𝑜𝑚](mailto:alijafari.official@yahoo.com)**
+
+[![@alijafari-sut](https://img.icons8.com/fluency/48/000000/linkedin.png "@alijafari-sut")]([https://www.linkedin.com/in/alijafari-sut]) 
+[![alijafari.official@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "alijafari.official@yahoo.com")](alijafari.official@yahoo.com)
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
