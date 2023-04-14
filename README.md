@@ -45,7 +45,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/206195868-53a693da-630b-4be4-8d79-137208a65a47.png" title="YOlO" alt="YOLO" width="50" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206195868-53a693da-630b-4be4-8d79-137208a65a47.png" title="YOLO" alt="YOLO" width="50" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/50498845/218998346-5f421216-55e8-4886-a852-ef5cd6f74b58.png" title="Proteus" alt="Proteus" height="34"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -53,8 +53,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40" href="#"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/206190472-479c90f1-ba05-4654-a7f3-a8bbe7f428a3.png" title="" alt="" width="40" height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/50498845/206189452-05aa3f8a-ce50-4f50-8c97-4b2970821732.png" title="GCC" alt="" width="40" height="40"/>&nbsp      <img src="https://user-images.githubusercontent.com/50498845/206190640-cfc23305-c98b-48aa-af54-d5db2182961e.png" title="vscode" alt="" width="40" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206190472-479c90f1-ba05-4654-a7f3-a8bbe7f428a3.png" title="VsCode" alt="" width="40" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/50498845/206189452-05aa3f8a-ce50-4f50-8c97-4b2970821732.png" title="GCC" alt="" width="40" height="40"/>&nbsp      <img src="https://user-images.githubusercontent.com/50498845/206190640-cfc23305-c98b-48aa-af54-d5db2182961e.png" title="Trello" alt="" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
