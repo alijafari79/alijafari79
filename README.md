@@ -26,7 +26,7 @@
 <p align="center">
 <!--<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF&ring=DD2727">-->
 <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alijafari79&show_icons=true&theme=algolia&count_private=true">
-<img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&show_icons=true&theme=algolia&count_private=true">
+<!--<img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&show_icons=true&theme=algolia&count_private=true">-->
 </p>
 
 
