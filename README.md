@@ -6,16 +6,18 @@
 
 ---
  
-### 💢 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 :
+### 💢 About Me :
 
 <!--### You can also Visit my Page with link below to see my latest projects .--!>
 <!--#### Github Page : https://alijafari79.github.io/website-->
 <!--**alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 📚 **Electrical Engineering Student @ Sharif University of Technology (SUT)**
+- 📚 **Electrical Engineering M.Sc. Student @ Sharif University of Technology (SUT)**
 - 👯 **Looking forward to collaborate on Computer Vision, Machine Learning, Ai, Embedded Systems Projects.**
 - :computer: **Embedded Systems Engineer**
 - ⚡ **My Hobby is to to make a bridge between dreams and reality!**
+
+#AliJafari , #Sharif , #Electrical , 
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=alijafari79)
