@@ -17,7 +17,6 @@
 - :computer: **Embedded Systems Engineer**
 - ⚡ **My Hobby is to to make a bridge between dreams and reality!**
 
-#AliJafari , #Sharif , #Electrical , 
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=alijafari79)
