@@ -12,15 +12,15 @@
 <!--#### Github Page : https://alijafari79.github.io/website-->
 <!--**alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 📚 **𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 @ 𝑆ℎ𝑎𝑟𝑖𝑓 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦 𝑜𝑓 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑦 (𝑆𝑈𝑇)**
-- 👯 **𝐿𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑉𝑖𝑠𝑖𝑜𝑛,𝐴𝐼 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑃𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
-- :computer: **𝐸𝑚𝑏𝑒𝑑𝑑𝑒𝑑 𝑆𝑦𝑠𝑡𝑒𝑚 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟**
-- ⚡ **𝑀𝑦 𝐻𝑜𝑏𝑏𝑦 𝑖𝑠 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑑𝑒𝑒𝑝𝑙𝑦 𝑖𝑛 𝑃𝑦𝑡ℎ𝑜𝑛, 𝐶 & 𝐶++ 𝑎𝑛𝑑 𝑙𝑒𝑎𝑟𝑛 𝑎𝑙𝑙 𝑎𝑏𝑜𝑢𝑡 𝑡ℎ𝑒𝑚 𝑖𝑛 𝑎𝑑𝑣𝑎𝑛𝑐𝑒𝑑 𝑙𝑒𝑣𝑒𝑙𝑠.**
+- 📚 **Electrical Engineering Student @ Sharif University of Technology (SUT)**
+- 👯 **Looking forward to collaborate on Computer Vision, Machine Learning, Ai, Embedded Systems Projects.**
+- :computer: **Embedded Systems Engineer**
+- ⚡ **My Hobby is to to make a bridge between dreams and reality!**
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=alijafari79)
 
-### :fire: 𝑀𝑦 𝑆𝑡𝑎𝑡𝑠 :
+### :fire: My Stats :
 <p align="center">
 <!--<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF&ring=DD2727">-->
 <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alijafari79&show_icons=true&theme=algolia&count_private=true">
@@ -61,11 +61,11 @@
 
 
 
-📫 **𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:**
+📫 **Reahc Me**
 <!---  **𝐸𝑚𝑎𝑖𝑙∶ [𝑎𝑙𝑖𝑗𝑎𝑓𝑎𝑟𝑖.𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙@𝑦𝑎ℎ𝑜𝑜.𝑐𝑜𝑚](mailto:alijafari.official@yahoo.com)**-->
 
 [![@alijafari-sut](https://img.icons8.com/fluency/48/000000/linkedin.png "@alijafari-sut")](https://www.linkedin.com/in/alijafari-sut) 
-[![alijafari.official@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "alijafari.official@yahoo.com")](mailto:alijafari.official@yahoo.com)
+[![alijafari.sut@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "alijafari.sut@gmail.com")](mailto:alijafari.sut@gmail.com)
 <!--          
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
