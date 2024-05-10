@@ -23,7 +23,7 @@
 
 ### :fire: My Stats :
 <p align="center">
-<!--<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF&ring=DD2727">-->
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alijafari79&show_icons=true&include_all_commits=false&hide_title=true&count_private=true&theme=radical&background=000000&border=FFFFFF&ring=DD2727">
 <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alijafari79&show_icons=true&theme=algolia&count_private=true">
 <!--<img width="42%" height="100%"  src="http://github-readme-streak-stats.herokuapp.com?user=alijafari79&show_icons=true&theme=algolia&count_private=true">-->
 </p>
@@ -62,9 +62,9 @@
 
 
 
-📫 **Reahc Me**
-<!---  **𝐸𝑚𝑎𝑖𝑙∶ [𝑎𝑙𝑖𝑗𝑎𝑓𝑎𝑟𝑖.𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙@𝑦𝑎ℎ𝑜𝑜.𝑐𝑜𝑚](mailto:alijafari.official@yahoo.com)**-->
 
+📫 **Reach Me:**
+<!---  **𝐸𝑚𝑎𝑖𝑙∶ [𝑎𝑙𝑖𝑗𝑎𝑓𝑎𝑟𝑖.𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙@𝑦𝑎ℎ𝑜𝑜.𝑐𝑜𝑚](mailto:alijafari.official@yahoo.com)**-->
 [![@alijafari-sut](https://img.icons8.com/fluency/48/000000/linkedin.png "@alijafari-sut")](https://www.linkedin.com/in/alijafari-sut) 
 [![alijafari.sut@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "alijafari.sut@gmail.com")](mailto:alijafari.sut@gmail.com)
 <!--          
