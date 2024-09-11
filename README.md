@@ -13,9 +13,9 @@
 <!--**alijafari79/alijafari79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - **Ali Jafari**
 - 📚 **Electrical Engineering M.Sc. Student @ Sharif University of Technology (SUT)**
-- 👯 **Looking forward to collaborate on Computer Vision, Machine Learning, Ai, Embedded Systems Projects.**
+- 👯 **Looking forward to collaborate on Embedded Systems, Computer Vision, Machine Learning, Ai Projects.**
 - :computer: **Embedded Systems Engineer**
-- ⚡ **My Hobby is to to make a bridge between dreams and reality!**
+- ⚡ **My Hobby is to bridge between dreams and reality!**
 
 ---
 
